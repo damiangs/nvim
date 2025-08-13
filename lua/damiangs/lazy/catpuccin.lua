@@ -1,4 +1,5 @@
 -- catpuccin mocca
+
 return {
 	"catppuccin/nvim",
 	name = "catppuccin",
